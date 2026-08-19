@@ -1,0 +1,31 @@
+ 
+a {
+    border: 1px solid black;
+    display: inline;
+    height: 40px;
+    padding: 30px;
+    content: normal;
+    
+    
+}
+    li {
+        display: inline-block;
+        border: 2px solid black;
+        width: 200px;
+        height: 150px;
+
+       
+    }
+    .my {
+        margin-top: 40px;
+    }
+    span {
+        border: 1px solid black;
+        
+    }
+    .rodape {
+        border: 1px solid black;
+        height: 50px;
+        padding: 20px;
+    }
+
